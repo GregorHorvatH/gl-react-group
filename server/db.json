@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "lorem ipsum",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "text": "slfkgj sdlkgj",
+      "isDone": true
+    }
+  ]
+}

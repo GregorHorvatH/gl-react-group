@@ -61,6 +61,12 @@ class App extends Component {
       <div className="App">
         <h2>QA 9</h2>
 
+        {/* <Menu />
+        <Content>
+
+        </Content>
+        <Footer></Footer> */}
+
         {/* <Header value={value} /> */}
 
         {counters.map((counter) => (
